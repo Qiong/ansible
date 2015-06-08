@@ -1,0 +1,12 @@
+[ceph-sb-hosts]
+sbseaceph2001.tableausandbox.com ansible_ssh_user=root
+sbseaceph2002.tableausandbox.com ansible_ssh_user=root
+sbseaceph2003.tableausandbox.com ansible_ssh_user=root
+sbseaceph2004.tableausandbox.com ansible_ssh_user=root
+sbseaceph2005.tableausandbox.com ansible_ssh_user=root
+sbseaceph2006.tableausandbox.com ansible_ssh_user=root
+sbseaceph2007.tableausandbox.com ansible_ssh_user=root
+sbseaceph2008.tableausandbox.com ansible_ssh_user=root
+sbseaceph3001.tableausandbox.com ansible_ssh_user=root
+sbseaceph3002.tableausandbox.com ansible_ssh_user=root
+sbseaceph3003.tableausandbox.com ansible_ssh_user=root

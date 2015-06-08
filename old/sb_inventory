@@ -1,0 +1,51 @@
+[sbservers]
+dvsearmqx2001.tableausandbox.com
+sbseadbsx3001.tableausandbox.com
+sbseadbsx3002.tableausandbox.com
+sbseaceph3001.tableausandbox.com ansible_ssh_user=root
+sbseaceph3003.tableausandbox.com ansible_ssh_user=root
+sbseadbsc1010.tableausandbox.com ansible_ssh_user=root
+sbseajmsx1001.tableausandbox.com ansible_ssh_user=root
+sbseahdpc1001.tableausandbox.com ansible_ssh_user=root
+sbseahdpc1002.tableausandbox.com ansible_ssh_user=root
+sbseahdpc1003.tableausandbox.com ansible_ssh_user=root
+sbseahdpc1005.tableausandbox.com
+sbseawsvv1001.tableausandbox.com
+sbseawsvv1002.tableausandbox.com
+dvseacia1001.tableausandbox.com
+sbseaosnv1003.tableausandbox.com ansible_ssh_user=root
+dvseassox3001.tableausandbox.com
+dvseassox3002.tableausandbox.com
+sbseassox1001.tableausandbox.com
+sbseassox1002.tableausandbox.com
+sbseassox2001.tableausandbox.com
+sbseassox3001.tableausandbox.com
+sbseassox3002.tableausandbox.com
+sbseacia1001.tableausandbox.com
+qaseawcsv2003.tableausandbox.com ansible_ssh_user=root
+sbseawcsx1001.tableausandbox.com
+sbseacasx1001.tableausandbox.com
+sbseacasx1002.tableausandbox.com
+sbseacasx1003.tableausandbox.com
+sbseadbsc2003.tableausandbox.com
+sbseadbsc6001.tableausandbox.com
+sbseadbsc7001.tableausandbox.com
+sbseadbsc8001.tableausandbox.com
+sbseadbsc9001.tableausandbox.com
+sbseadbsx6301.tableausandbox.com ansible_ssh_user=root
+sbseadmcr1001.tableausandbox.com ansible_ssh_user=root
+sbseanfsc1001.tableausandbox.com
+sbseadbsx9701.tableausandbox.com
+sbseadbsx2002.tableausandbox.com
+qaseawcsx2001.tableausandbox.com 
+sbseadbsx2001.tableausandbox.com
+sbseadbsx9501.tableausandbox.com
+sbseadbsx9601.tableausandbox.com
+sbseatacx1001.tableausandbox.com
+sbseautlr1012.tableausandbox.com ansible_ssh_user=root
+sbseautlx1001.tableausandbox.com
+sbseawcsr1001.tableausandbox.com
+sbseawcsr5001.tableausandbox.com ansible_ssh_user=root
+sbseawcsx1201.tableausandbox.com
+uploader.tableausandbox.com
+sbseamonr2001.tableausandbox.com

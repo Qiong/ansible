@@ -1,0 +1,11 @@
+- name: Configure webservers
+  hosts: webservers
+  task:
+    - name:Install nginx
+      yum: name=nginx
+    - name: install config file
+      template: src=nginx.conf.j2 dest=/etc/nginx/ngingx.conf
+      notify: restart nginx
+      handlers:
+        - name: notify nginx
+          service: name=nginx start=restarted

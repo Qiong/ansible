@@ -1,0 +1,49 @@
+[pdservers]
+opsc9busr1001.tableauprod.net
+opsc9pmsr1001.tableauprod.net
+opsc9utlr1001.tableauprod.net
+opsc9utlr1002.tableauprod.net
+opsc9wkix1001.tableauprod.net
+pdsc9kvmv1001.tableauprod.net
+pdsc9kvmv1002.tableauprod.net
+pdsc9monr1001.tableauprod.net
+pdsc9mxlx1001.tableauprod.net
+pdsc9mxlx1002.tableauprod.net ansible_ssh_user=root
+pdsc9rmqc1001.tableauprod.net
+pdsc9rmqc1002.tableauprod.net
+pdsc9xenv1001.tableauprod.net ansible_ssh_user=root
+pdsc9xenv1002.tableauprod.net ansible_ssh_user=root
+pdsc9hdpc1001.tableauprod.net
+pdsc9hdpc1002.tableauprod.net
+pdsc9hdpc1003.tableauprod.net
+pdsc9hdpc1004.tableauprod.net
+pdsc9hdpc1005.tableauprod.net
+pdsc9hdpc1006.tableauprod.net
+pdsc9dbsc3201.tableauprod.net
+pdsc9dbsc3202.tableauprod.net
+btsc9dbsc5001.tableauprod.net
+pdsc9dbsc1010.tableauprod.net
+pdsc9dbsc1011.tableauprod.net
+pdsc9dbsc8002.tableauprod.net
+opsc9dbsc1101.tableauprod.net
+pdsc9ssox1003.tableauprod.net
+pssc9utlr2001.tableauprod.net ansible_ssh_user=root
+dmsc9appv1001.tableauprod.net ansible_ssh_user=root
+opsc9wcsx1001.tableauprod.net
+pdsc9ciax1001.tableauprod.net
+pdsc9ciax1002.tableauprod.net
+pdsc9dbsc1002.tableauprod.net
+pdsc9dmcc1001.tableauprod.net ansible_ssh_user=root
+pdsc9dmcc1002.tableauprod.net ansible_ssh_user=root
+pdsc9nfsc1001-nfs4.tableauprod.net
+pdsc9nfsc1002-nfs4.tableauprod.net
+pdsc9wcsr1001.tableauprod.net ansible_ssh_user=root
+pdsc9wcsr1002.tableauprod.net ansible_ssh_user=root
+opsc9dbsr2101.tableauprod.net
+opsc9pxpx1001.tableauprod.net ansible_ssh_user=root
+pdsc9dbsc8001.tableauprod.net
+pdsc9pxpx1001.tableauprod.net ansible_ssh_user=root
+pdsc9sqdx1001.tableauprod.net ansible_ssh_user=root
+pdsc9sqdx1002.tableauprod.net ansible_ssh_user=root
+pdsc9monr2002.tableauprod.net
+Zabbix.tableauprod.net
